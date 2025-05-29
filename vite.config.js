@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react' // Nếu bạn dùng React, nếu khôn
 export default defineConfig({
   plugins: [react()], // Nếu bạn dùng React, nếu không thì để plugins: []
 
-  base: '/for_my_crush/'
+  base: '/chitrangcutiechitrangcutie/'
 })
